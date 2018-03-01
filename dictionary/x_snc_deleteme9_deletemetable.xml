@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="DeleteMeTable" max_length="40" name="x_snc_deleteme9_deletemetable" type="collection">
+        <element label="Full Name" max_length="90" name="full_name" type="string"/>
+    </element>
+</database>
