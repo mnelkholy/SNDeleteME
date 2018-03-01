@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables/>
+        <default>false</default>
+        <homepage/>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page/>
+        <logo/>
+        <notfound_page/>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu/>
+        <sqanda_knowledge_base/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-12 23:53:01</sys_created_on>
+        <sys_id>fac36d3cdb94db00d34bffa31d9619e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hello World Portal test</sys_name>
+        <sys_package display_value="deleteme" source="x_snc_deleteme9">5340cdb3dbc89b00816bffb41d9619f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="deleteme">5340cdb3dbc89b00816bffb41d9619f3</sys_scope>
+        <sys_update_name>sp_portal_fac36d3cdb94db00d34bffa31d9619e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-12 23:53:01</sys_updated_on>
+        <theme/>
+        <title>Hello World Portal test</title>
+        <u_available_in_portal_picker>false</u_available_in_portal_picker>
+        <url_suffix>MEP</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=fac36d3cdb94db00d34bffa31d9619e9"/>
+</record_update>

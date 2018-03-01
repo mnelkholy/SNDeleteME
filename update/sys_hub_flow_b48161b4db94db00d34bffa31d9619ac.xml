@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <description/>
+        <label_cache>null</label_cache>
+        <latest_snapshot/>
+        <name>HelloWorld</name>
+        <show_draft_actions>false</show_draft_actions>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-12 23:42:10</sys_created_on>
+        <sys_id>b48161b4db94db00d34bffa31d9619ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HelloWorld</sys_name>
+        <sys_package display_value="deleteme" source="x_snc_deleteme9">5340cdb3dbc89b00816bffb41d9619f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="deleteme">5340cdb3dbc89b00816bffb41d9619f3</sys_scope>
+        <sys_update_name>sys_hub_flow_b48161b4db94db00d34bffa31d9619ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-12 23:42:10</sys_updated_on>
+    </sys_hub_flow>
+</record_update>

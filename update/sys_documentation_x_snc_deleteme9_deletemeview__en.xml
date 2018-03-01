@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Deleteme9 deletemeview" language="en" table="x_snc_deleteme9_deletemeview">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Deleteme9 deletemeview</label>
+            <language>en</language>
+            <name>x_snc_deleteme9_deletemeview</name>
+            <plural>Deleteme9 deletemeviews</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-02-27 01:01:40</sys_created_on>
+            <sys_id>f1f9f99ddb649f40816bffb41d9619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Deleteme9 deletemeview</sys_name>
+            <sys_package display_value="deleteme" source="x_snc_deleteme9">5340cdb3dbc89b00816bffb41d9619f3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="deleteme">5340cdb3dbc89b00816bffb41d9619f3</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_deleteme9_deletemeview__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-02-27 01:01:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
